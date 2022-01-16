@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\EjemploLambda.exe
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\EjemploLambda.deps.json
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\EjemploLambda.runtimeconfig.json
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\EjemploLambda.dll
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\ref\EjemploLambda.dll
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\bin\Debug\net6.0\EjemploLambda.pdb
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.dll
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\ref\EjemploLambda.dll
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.pdb
+C:\Users\CompuStore\source\repos\EjemploLambda\EjemploLambda\obj\Debug\net6.0\EjemploLambda.genruntimeconfig.cache
